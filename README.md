@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a social media website<br>I’m looking for help with UI/UX<br>I’m currently learning PHP<br>Ask me about Tech<br>Fun fact : Convivial
+I am a full-stack developer with a passion for problem-solving and learning. Skilled in front-end development and enthusiastic about exploring new technologies. I enjoy collaborating with others and embracing challenges. Let's connect and create together!
 
 
 ## 🌐 Socials:
